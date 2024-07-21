@@ -13,4 +13,8 @@ const Wrapper = styled.div`
     display: flex;
     justify-content: center;
     align-items: center;
+
+    position: sticky;
+    left: 0;
+    bottom: 0;
 `;
